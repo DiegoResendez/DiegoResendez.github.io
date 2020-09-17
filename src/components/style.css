@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(148, 148, 148);
+    margin: auto;
+    padding: 10px;
+}
+
+
+.container, .btn-primary { 
+    /* background-color: #f02121; */
+    margin: 0px;
+    padding: 5px;
+    float: left;
+    display: inline-block;
+}
+
+h1,  .nav-link, .footer-link  {
+    color: rgb(14, 13, 13);
+    /* color: rgb(41, 41, 41); */
+}
+h4, h3, h5, h2, h6, .form-group {
+    color: rgb(14, 13, 13);
+    text-align: left;
+}
+
+.Amazon4, .Amazon3, 
+.Amazon2, .Amazon{
+    text-align: left;
+}
+
+.nav {
+    float: right;
+}
+.footer {
+    display: contents;
+    /* position: absolute; */
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
+
+.contactPage {
+    display: inline;
+}
+
+.projectCards {
+    display: flex;
+}
+
+.card {
+    display: grid;
+}
+
